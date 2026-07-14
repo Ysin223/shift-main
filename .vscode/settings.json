@@ -1,5 +1,6 @@
 {
   "editor.formatOnSave": true,
   "files.eol": "\n",
-  "terminal.integrated.cwd": "${workspaceFolder}"
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "liveServer.settings.port": 5501
 }
