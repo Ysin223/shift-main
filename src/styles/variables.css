@@ -1,0 +1,12 @@
+:root {
+  --color-lime: #C8F000;
+  --color-navy: #111827;
+  --color-warm-white: #FAFAF7;
+  --color-light-grey: #E5E7EB;
+  --color-dark-lime: #A8CC00;
+  --color-muted: #6B7280;
+  --color-soft-border: #DDDCCE;
+  --shadow-soft: 0 18px 50px rgba(17, 24, 39, 0.08);
+  --radius-card: 28px;
+  --radius-pill: 999px;
+}
